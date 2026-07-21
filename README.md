@@ -21,7 +21,7 @@ Built and simulated using Tinkercad Circuits.
 https://www.tinkercad.com/things/7IuPms601wA-servo-sweep-task?sharecode=GnIZnH8daXlNEdt5zd7A9c0fuF9DeUAw4I3ox8kUb5k
 
 ## Code
-See [`servo sweep task.ino`](./servo sweep task.ino) for the full Arduino sketch.
+attached as servo sweep task.ino
 
 ## How It Works
 - The code uses `millis()` instead of `delay()` to track elapsed time, allowing all 4 servos to move together smoothly during the sweep phase.
